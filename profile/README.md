@@ -1,12 +1,8 @@
 ## Hi there 👋
+这个仓库是一个展示如何使用硬件和前端技术来制作一些很酷很有创意的东西的平台。你可以在这里找到一些有趣的项目
 
-<!--
+## 目标和愿景
+这个仓库的目标是为了激发更多人对于硬件和前端技术的兴趣和热情，让他们能够用自己的双手创造出一些有意义和有趣的东西。我们希望通过这个平台，能够建立一个互相学习和交流的社区，让更多人能够享受到编程和制作的乐趣。
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+感谢你对我们仓库的关注和支持，希望你能在这里找到你喜欢的项目和朋友！
